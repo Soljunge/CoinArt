@@ -8,7 +8,7 @@ The **Memecoin Creator** skill transforms an AI agent into the **Meme Maestro**�
 
 ---
 
-## 🧠 Core Capabilities
+## 🧠 Core Capabilities 
 
 The Meme Maestro doesn't just generate names; it builds **narrative-driven ecosystems**. The skill follows a rigorous framework to ensure every concept has the "bones" to go viral.
 
